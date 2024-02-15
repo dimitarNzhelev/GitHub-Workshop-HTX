@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hack TUES X!\n");
+    printf("Hack TUES X!!\n");
 }
