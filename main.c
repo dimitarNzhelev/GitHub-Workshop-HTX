@@ -1,6 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hack TUES X!!\n");
+    printHackTUES();
     printf("TUES Fest 2024!!\n");
+}
+
+void printHackTUES(){
+    printf("Hack TUES!!\n");
 }
