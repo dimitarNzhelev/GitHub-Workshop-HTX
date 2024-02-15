@@ -2,6 +2,10 @@
 
 int main() {
     printf("The time is: 20:00\n");
-    printf("Hack TUES X!!\n");
+    printHackTUES();
     printf("TUES Fest 2024!!\n");
+}
+
+void printHackTUES(){
+    printf("Hack TUES!!\n");
 }
