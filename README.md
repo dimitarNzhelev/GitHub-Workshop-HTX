@@ -6,7 +6,7 @@
 
 ## Ресурси
 
-- [Презентацията](./docs/Git&Github%20Presentation.pdf)
+- [Презентацията](./docs/Python%20-%20Flask%20Presentation.pdf)
 - [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
 - [Документация на Python](https://docs.python.org/3/)
 - [Видове заявки](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
